@@ -4,7 +4,8 @@ https://gist.github.com/a-grealish/982fefdb9fe822a761e262411e9800a1
 # How to run the assignment
 1. `python venv env` to install requirements
 2. `source env/bin/activate` to activate environment
-3. `python main.py` to run an example from the exercise
+3. `pip install -r requirements.txt` to install requirements
+4. `python main.py` to run an example from the exercise
 
 This will produce an array with 0 (don't charge)/1 (charge) for each minute between plug time in and unplug time.
 
